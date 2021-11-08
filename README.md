@@ -1,2 +1,2 @@
 # Median Bilinear model
-Files of the article published in SORT journal entitled "Median bilinear models in presence of extreme values"
+Files to estimate median bilinear models described in the article entitled "Median bilinear models in presence of extreme values" submitted to the SORT journal.
